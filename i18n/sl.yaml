@@ -1,0 +1,77 @@
+global:
+  language: "SL"
+
+article:
+  anchor_label: "Ankr"
+  date: "{{ .Date }}"
+  date_updated: "Posodobljeno: {{ .Date }}"
+  draft: "Osnutek"
+  edit_title: "Uredi vsebino"
+  reading_time:
+    one: "{{ .Count }} min"
+    other: "{{ .Count }} min"
+  reading_time_title: "Čas branja"
+  table_of_contents: "Kazalo vsebine"
+  word_count:
+    one: "{{ .Count }} beseda"
+    other: "{{ .Count }} besed"
+  views:
+    one: "{{ .Count }} ogled"
+    other: "{{ .Count }} ogledi"
+  likes:
+    one: "{{ .Count }} všeček"
+    other: "{{ .Count }} všečki"
+  part_of_series: "Ta članek je del serije."
+  part: "Del"
+  this_article: "Ta članek"
+  related_articles: "Sorodni članki"
+  zen_mode_title:
+    enable: "Omogoči zen način"
+    disable: "Onemogoči zen način"
+
+author:
+  byline_title: "Avtor"
+
+code:
+  copy: "Kopiraj"
+  copied: "Kopirano"
+
+error:
+  404_title: "Stran ni bila najdena :confused:"
+  404_error: "Napaka 404"
+  404_description: "Zdi se, da stran, ki ste jo zahtevali, ne obstaja."
+
+footer:
+  dark_appearance: "Preklopi v temni način"
+  light_appearance: "Preklopi v svetli način"
+  powered_by: "Omogočeno z {{ .Hugo }} &amp; {{ .Theme }}"
+
+list:
+  externalurl_title: "Povezava do zunanje strani"
+  no_articles: "Tukaj še ni nobenih člankov."
+
+nav:
+  scroll_to_top_title: "Pomakni se na vrh"
+  skip_to_main: "Preskoči na glavno vsebino"
+
+search:
+  open_button_title: "Iskanje (/)"
+  close_button_title: "Zapri (Esc)"
+  input_placeholder: "Iskanje"
+
+sharing:
+  email: "Pošlji po elektronski pošti"
+  facebook: "Deli na Facebooku"
+  linkedin: "Deli na LinkedInu"
+  pinterest: "Pripni na Pinterest"
+  reddit: "Pošlji na Reddit"
+  twitter: "Tweetaj na Twitterju"
+  bluesky: "Objavi na Bluesky"
+  whatsapp: "Deli preko WhatsAppa"
+  telegram: "Deli preko Telegrama"
+
+shortcode:
+  recent_articles: "Nedavni članki"
+
+recent:
+  show_more: "Pokaži več"

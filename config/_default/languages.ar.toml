@@ -1,0 +1,32 @@
+disabled = false
+languageCode = "ar"
+languageName = "العربية"
+weight = 4
+title =  "يوسف شيخ الإسلام"
+
+[params]
+  displayName = "العربية"
+  isoCode = "ar"
+  rtl = true
+  dateFormat = "2 January 2006"
+  # logo = "img/logo.png"
+  # secondaryLogo = "img/secondary-logo.png"
+  description = "الموقع الرسمي لیوسف شیخ الاسلام، المتحمس والمبتكر والمطور في مجال الروبوتات."
+  # copyright = "Copy, _right?_ :thinking_face:"
+
+ [params.author]
+   name = "يوسف شيخ الإسلام"
+   email = "youremail@example.com"
+   #image = "img/blowfish_logo.png"
+   #imageQuality = 96
+   headline = "مرحبًا! أنا يوسف. أقضي معظم وقتي في مشاريع الروبوتات، العزف على الآلات الموسيقية، لعب الكرة الطائرة، أو مشاهدة التلفاز. حلمي هو إنشاء شركة روبوتات تساعد الآخرين وتلهمهم. لا تتردد في التواصل معي."
+   bio = "Not much"
+   links = [
+      { email = "mailto:gamer.exe_shay@yahoo.com" },
+      { github = "https://github.com/joseph-shay" },
+      { instagram = "https://www.instagram.com/jjoseph_exe/" },
+      { linkedin = "https://www.linkedin.com/in/joseph-shay-270448345?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" },
+      { x-twitter = "https://twitter.com/jjoseph_exe" },
+      { youtube = "https://www.youtube.com/@Josephs.robotics" },
+
+   ]

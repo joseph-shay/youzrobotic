@@ -1,0 +1,33 @@
+disabled = false
+languageCode = "fa"
+languageName = "Persian"
+weight = 2
+title = "خانه"
+
+[params]
+  displayName = "فارسی"
+  isoCode = "fa"
+  rtl = true
+  dateFormat = "2 January 2006"
+  # logo = "img/logo.png"
+  # secondaryLogo = "img/secondary-logo.png"
+  description = "وب سایت رسمی یوسف شیخ الاسلام، علاقه مند، مبتکر و توسعه دهنده رباتیک."
+  # copyright = "Copy, _right?_ :thinking_face:"
+
+ [params.author]
+   name = "يوسف شيخ الاسلام"
+   email = "youremail@example.com"
+   #image = "img/blowfish_logo.png"
+   #imageQuality = 96
+   headline = "درود! من یوسفم. بیشتر وقتم را صرف پروژه های رباتیک میکنم یا ساز بزنم یا والیبال بازی کنم. رویای من اینه که یک شرکت رباتیک راه اندازی کنم که به دیگران کمک می کند و الهام می بخشد. با خیال راحت با من ارتباط برقرار کنید"
+   bio = "Not much"
+   links = [
+      { email = "mailto:gamer.exe_shay@yahoo.com" },
+      { github = "https://github.com/joseph-shay" },
+      { instagram = "https://www.instagram.com/jjoseph_exe/" },
+      { linkedin = "https://www.linkedin.com/in/joseph-shay-270448345?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" },
+      { x-twitter = "https://twitter.com/jjoseph_exe" },
+      { youtube = "https://www.youtube.com/@Josephs.robotics" },
+
+   ]
+

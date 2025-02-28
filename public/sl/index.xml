@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jousef šaj</title>
+    <link>https://example.org/sl/</link>
+    <description>Recent content on Jousef šaj</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>sl</language>
+    <managingEditor>youremail@example.com</managingEditor>
+    <webMaster>youremail@example.com</webMaster>
+    <copyright>© 2025 </copyright>
+    <lastBuildDate>Wed, 19 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/sl/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Factory Automation: Benefits, Implementation, and Future Prospects</title>
+      <link>https://example.org/sl/article/factory-automation/</link>
+      <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
+      <author>youremail@example.com</author>
+      <guid>https://example.org/sl/article/factory-automation/</guid>
+      <description>A brief look on Factory Automation. Written by Yousef Shaykholeslam</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/sl/article/factory-automation/featured.png" />
+    </item>
+    
+    <item>
+      <title>90 Degree turns with BNO055</title>
+      <link>https://example.org/sl/posts/turn-90-degrees-with-bno055/</link>
+      <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
+      <author>youremail@example.com</author>
+      <guid>https://example.org/sl/posts/turn-90-degrees-with-bno055/</guid>
+      <description>The algorithm to turn your robot 90 degrees using the BNO055 Gyroscope.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/sl/posts/turn-90-degrees-with-bno055/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Convert Words to Numbers in Python</title>
+      <link>https://example.org/sl/posts/string-to-number-python/</link>
+      <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
+      <author>youremail@example.com</author>
+      <guid>https://example.org/sl/posts/string-to-number-python/</guid>
+      <description>How to turn string into a Number with python and word2number.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/sl/posts/string-to-number-python/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>&#39;One baby to another says I&#39;m lucky to&#39;ve met you&#39;</title>
+      <link>https://example.org/sl/rants/nirvana/</link>
+      <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
+      <author>youremail@example.com</author>
+      <guid>https://example.org/sl/rants/nirvana/</guid>
+      <description>Nirvana: Zapisi grunge glasbe in surove čustvenosti.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/sl/rants/nirvana/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Moj življenjepis/CV</title>
+      <link>https://example.org/sl/resume/</link>
+      <pubDate>Tue, 14 Jan 2025 00:00:00 +0000</pubDate>
+      <author>youremail@example.com</author>
+      <guid>https://example.org/sl/resume/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;Profil 
+    &lt;div id=&#34;profil&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+&lt;/h1&gt;
+&lt;p&gt;Dosegel sem prvo mesto na tekmovanju RoboCup 2023 IranOpen (sekundarni lahki nogomet), kjer sem dobil priložnost za tekmovanje v Bordeauxu v Franciji. Nato sem osvojil prvo mesto na WRO Senior RoboMission v Iranu in prejel zlato medaljo, v letu 2024 pa sem dosegel tretje mesto na WRO RoboSports. Imam močne veščine v oblikovanju PCB (tisnjenih vezij) z uporabo Altium Designerja ter oblikovanju in tiskanju 3D delov s SolidWorks in Simplify3D. Kar se tiče kodiranja, obvladam AVR, STM32, Lego EV3 Mindstorms, Python in Arduino. Imam sposobnost izdelave 3D tiskalnikov, CNC strojev, aeroponskih in hidroponskih kmetijskih sistemov in še več. Poleg tehničnih sposobnosti sem hiter učenec, imam tudi talente za glasbo in šport.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Kako ustvariti blog</title>
+      <link>https://example.org/sl/posts/how-to-blog/</link>
+      <pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate>
+      <author>youremail@example.com</author>
+      <guid>https://example.org/sl/posts/how-to-blog/</guid>
+      <description>Kako ustvariti blog spletno stran</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/sl/posts/how-to-blog/posts/how-to-blog/featured.png" />
+    </item>
+    
+    <item>
+      <title>Zakaj blog?</title>
+      <link>https://example.org/sl/rants/why-make-a-blog-page/</link>
+      <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
+      <author>youremail@example.com</author>
+      <guid>https://example.org/sl/rants/why-make-a-blog-page/</guid>
+      <description>Tukaj pojasnim, zakaj sem začel blog in zakaj bi ga morali razmisliti tudi vi.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/sl/rants/why-make-a-blog-page/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Avtomatizacija prihodnosti</title>
+      <link>https://example.org/sl/projects/snowa/</link>
+      <pubDate>Tue, 26 Nov 2024 00:00:00 +0000</pubDate>
+      <author>youremail@example.com</author>
+      <guid>https://example.org/sl/projects/snowa/</guid>
+      <description>Moj obisk SNOWA za avtomatizacijo dela proizvodnje</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/sl/projects/snowa/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>2024 Iran WRO</title>
+      <link>https://example.org/sl/projects/wro2024/</link>
+      <pubDate>Fri, 09 Aug 2024 00:00:00 +0000</pubDate>
+      <author>youremail@example.com</author>
+      <guid>https://example.org/sl/projects/wro2024/</guid>
+      <description>Dvojni teniški turnir WRO RoboSports 2024</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/sl/projects/wro2024/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>2024 IranOpen RoboCup</title>
+      <link>https://example.org/sl/projects/iranopen-robocup2024/</link>
+      <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
+      <author>youremail@example.com</author>
+      <guid>https://example.org/sl/projects/iranopen-robocup2024/</guid>
+      <description>Tekmovanje 2024 IranOpen RoboCup</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/sl/projects/iranopen-robocup2024/featured.png" />
+    </item>
+    
+    <item>
+      <title>5. Mustafa nagrada</title>
+      <link>https://example.org/sl/posts/mustafa-prize/</link>
+      <pubDate>Fri, 29 Sep 2023 00:00:00 +0000</pubDate>
+      <author>youremail@example.com</author>
+      <guid>https://example.org/sl/posts/mustafa-prize/</guid>
+      <description>&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;Mustafa nagrada, znana tudi kot Nobelova nagrada za islamske države.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/sl/posts/mustafa-prize/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>2023 Iran WRO</title>
+      <link>https://example.org/sl/projects/wro2023/</link>
+      <pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate>
+      <author>youremail@example.com</author>
+      <guid>https://example.org/sl/projects/wro2023/</guid>
+      <description>2023 WRO RoboMission Senior tekmovanje</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/sl/projects/wro2023/featured.png" />
+    </item>
+    
+    <item>
+      <title>2023 IranOpen RoboCup</title>
+      <link>https://example.org/sl/projects/iranopen-robocup2023/</link>
+      <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
+      <author>youremail@example.com</author>
+      <guid>https://example.org/sl/projects/iranopen-robocup2023/</guid>
+      <description>Tekmovanje 2023 IranOpen RoboCup</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/sl/projects/iranopen-robocup2023/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>

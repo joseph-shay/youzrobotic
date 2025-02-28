@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ustvarjanje Bloga on Jousef šaj</title>
+    <link>https://example.org/sl/series/ustvarjanje-bloga/</link>
+    <description>Recent content in Ustvarjanje Bloga on Jousef šaj</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>sl</language>
+    <managingEditor>youremail@example.com</managingEditor>
+    <webMaster>youremail@example.com</webMaster>
+    <copyright>© 2025 </copyright>
+    <lastBuildDate>Sat, 11 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/sl/series/ustvarjanje-bloga/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Kako ustvariti blog</title>
+      <link>https://example.org/sl/posts/how-to-blog/</link>
+      <pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate>
+      <author>youremail@example.com</author>
+      <guid>https://example.org/sl/posts/how-to-blog/</guid>
+      <description>Kako ustvariti blog spletno stran</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/sl/posts/how-to-blog/posts/how-to-blog/featured.png" />
+    </item>
+    
+    <item>
+      <title>Zakaj blog?</title>
+      <link>https://example.org/sl/rants/why-make-a-blog-page/</link>
+      <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
+      <author>youremail@example.com</author>
+      <guid>https://example.org/sl/rants/why-make-a-blog-page/</guid>
+      <description>Tukaj pojasnim, zakaj sem začel blog in zakaj bi ga morali razmisliti tudi vi.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/sl/rants/why-make-a-blog-page/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>

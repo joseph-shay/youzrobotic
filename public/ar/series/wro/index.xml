@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WRO on يوسف شيخ الإسلام</title>
+    <link>https://example.org/ar/series/wro/</link>
+    <description>Recent content in WRO on يوسف شيخ الإسلام</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ar</language>
+    <managingEditor>youremail@example.com (يوسف شيخ الإسلام)</managingEditor>
+    <webMaster>youremail@example.com (يوسف شيخ الإسلام)</webMaster>
+    <copyright>© 2025 يوسف شيخ الإسلام</copyright>
+    <lastBuildDate>Fri, 09 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/ar/series/wro/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>2024 WRO إيران</title>
+      <link>https://example.org/ar/projects/wro2024/</link>
+      <pubDate>Fri, 09 Aug 2024 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (يوسف شيخ الإسلام)</author>
+      <guid>https://example.org/ar/projects/wro2024/</guid>
+      <description>دوري روبوسبورتس تنس مزدوج 2024</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/ar/projects/wro2024/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>2023 WRO إيران</title>
+      <link>https://example.org/ar/projects/wro2023/</link>
+      <pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (يوسف شيخ الإسلام)</author>
+      <guid>https://example.org/ar/projects/wro2023/</guid>
+      <description>دوري روبوميشين سينير 2023</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/ar/projects/wro2023/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

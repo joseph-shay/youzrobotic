@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles on Jousef šaj</title>
+    <link>https://example.org/sl/article/</link>
+    <description>Recent content in Articles on Jousef šaj</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>sl</language>
+    <managingEditor>youremail@example.com</managingEditor>
+    <webMaster>youremail@example.com</webMaster>
+    <copyright>© 2025 </copyright>
+    <lastBuildDate>Wed, 19 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/sl/article/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Factory Automation: Benefits, Implementation, and Future Prospects</title>
+      <link>https://example.org/sl/article/factory-automation/</link>
+      <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
+      <author>youremail@example.com</author>
+      <guid>https://example.org/sl/article/factory-automation/</guid>
+      <description>A brief look on Factory Automation. Written by Yousef Shaykholeslam</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/sl/article/factory-automation/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
