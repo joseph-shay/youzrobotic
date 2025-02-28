@@ -38,7 +38,7 @@
       <author>youremail@example.com</author>
       <guid>https://example.org/sl/posts/how-to-blog/</guid>
       <description>Kako ustvariti blog spletno stran</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/sl/posts/how-to-blog/posts/how-to-blog/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/sl/posts/how-to-blog/featured.png" />
     </item>
     
     <item>

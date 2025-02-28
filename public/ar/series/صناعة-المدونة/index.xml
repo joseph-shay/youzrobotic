@@ -18,7 +18,7 @@
       <author>youremail@example.com (يوسف شيخ الإسلام)</author>
       <guid>https://example.org/ar/posts/how-to-blog/</guid>
       <description>كيفية إنشاء موقع مدونة</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/ar/posts/how-to-blog/posts/how-to-blog/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/ar/posts/how-to-blog/featured.png" />
     </item>
     
   </channel>
