@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Joseph Shay</title>
-    <link>https://example.org/posts/</link>
+    <link>https://joseph-shay.github.io/youzrobotic/posts/</link>
     <description>Recent content in Posts on Joseph Shay</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>youremail@example.com (Yousef Shaykholeslam)</managingEditor>
     <webMaster>youremail@example.com (Yousef Shaykholeslam)</webMaster>
     <copyright>© 2025 Yousef Shaykholeslam</copyright>
-    <lastBuildDate>Wed, 22 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://joseph-shay.github.io/youzrobotic/posts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>90 Degree turns with BNO055</title>
-      <link>https://example.org/posts/turn-90-degrees-with-bno055/</link>
+      <link>https://joseph-shay.github.io/youzrobotic/posts/turn-90-degrees-with-bno055/</link>
       <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
       <author>youremail@example.com (Yousef Shaykholeslam)</author>
-      <guid>https://example.org/posts/turn-90-degrees-with-bno055/</guid>
+      <guid>https://joseph-shay.github.io/youzrobotic/posts/turn-90-degrees-with-bno055/</guid>
       <description>The algorithm to turn your robot 90 degrees using the BNO055 Gyroscope.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/posts/turn-90-degrees-with-bno055/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://joseph-shay.github.io/youzrobotic/posts/turn-90-degrees-with-bno055/featured.jpg" />
     </item>
     
     <item>
       <title>Convert Words to Numbers in Python</title>
-      <link>https://example.org/posts/string-to-number-python/</link>
+      <link>https://joseph-shay.github.io/youzrobotic/posts/string-to-number-python/</link>
       <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
       <author>youremail@example.com (Yousef Shaykholeslam)</author>
-      <guid>https://example.org/posts/string-to-number-python/</guid>
+      <guid>https://joseph-shay.github.io/youzrobotic/posts/string-to-number-python/</guid>
       <description>How to turn string into a Number with python and word2number.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/posts/string-to-number-python/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://joseph-shay.github.io/youzrobotic/posts/string-to-number-python/featured.jpg" />
     </item>
     
     <item>
       <title>How to create a blog</title>
-      <link>https://example.org/posts/how-to-blog/</link>
+      <link>https://joseph-shay.github.io/youzrobotic/posts/how-to-blog/</link>
       <pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate>
       <author>youremail@example.com (Yousef Shaykholeslam)</author>
-      <guid>https://example.org/posts/how-to-blog/</guid>
+      <guid>https://joseph-shay.github.io/youzrobotic/posts/how-to-blog/</guid>
       <description>How to create a blog website</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/posts/how-to-blog/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://joseph-shay.github.io/youzrobotic/posts/how-to-blog/featured.png" />
     </item>
     
     <item>
       <title>5th Mustafa Prize</title>
-      <link>https://example.org/posts/mustafa-prize/</link>
+      <link>https://joseph-shay.github.io/youzrobotic/posts/mustafa-prize/</link>
       <pubDate>Fri, 29 Sep 2023 00:00:00 +0000</pubDate>
       <author>youremail@example.com (Yousef Shaykholeslam)</author>
-      <guid>https://example.org/posts/mustafa-prize/</guid>
+      <guid>https://joseph-shay.github.io/youzrobotic/posts/mustafa-prize/</guid>
       <description>The 5th Mustafa Prize, aka the Nobel Prize of Islamic countries.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/posts/mustafa-prize/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://joseph-shay.github.io/youzrobotic/posts/mustafa-prize/featured.jpg" />
     </item>
     
   </channel>

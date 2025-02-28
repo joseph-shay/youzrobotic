@@ -1,6 +1,6 @@
 
 theme = "blowfish" 
-# baseURL = "https://your_domain.com/"
+baseURL = "https://joseph-shay.github.io/youzrobotic/"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 title = "Joseph Shay - Robotics & Innovation"

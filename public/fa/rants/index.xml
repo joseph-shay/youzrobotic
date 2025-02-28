@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rants on خانه</title>
-    <link>https://example.org/fa/rants/</link>
+    <link>https://joseph-shay.github.io/youzrobotic/fa/rants/</link>
     <description>Recent content in Rants on خانه</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fa</language>
     <managingEditor>youremail@example.com (يوسف شيخ الاسلام)</managingEditor>
     <webMaster>youremail@example.com (يوسف شيخ الاسلام)</webMaster>
     <copyright>© 2025 يوسف شيخ الاسلام</copyright>
-    <lastBuildDate>Thu, 16 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/fa/rants/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://joseph-shay.github.io/youzrobotic/fa/rants/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>&#39;One baby to another says I&#39;m lucky to&#39;ve met you&#39;</title>
-      <link>https://example.org/fa/rants/nirvana/</link>
+      <link>https://joseph-shay.github.io/youzrobotic/fa/rants/nirvana/</link>
       <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
       <author>youremail@example.com (يوسف شيخ الاسلام)</author>
-      <guid>https://example.org/fa/rants/nirvana/</guid>
+      <guid>https://joseph-shay.github.io/youzrobotic/fa/rants/nirvana/</guid>
       <description>نیرانا: میراثی از گرانج و احساسات خام.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/fa/rants/nirvana/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://joseph-shay.github.io/youzrobotic/fa/rants/nirvana/featured.jpg" />
     </item>
     
     <item>
       <title>چرا بلاگ کنیم؟</title>
-      <link>https://example.org/fa/rants/why-make-a-blog-page/</link>
+      <link>https://joseph-shay.github.io/youzrobotic/fa/rants/why-make-a-blog-page/</link>
       <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
       <author>youremail@example.com (يوسف شيخ الاسلام)</author>
-      <guid>https://example.org/fa/rants/why-make-a-blog-page/</guid>
+      <guid>https://joseph-shay.github.io/youzrobotic/fa/rants/why-make-a-blog-page/</guid>
       <description>در اینجا توضیح می‌دهم که چرا شروع به نوشتن بلاگ کردم و چرا شما نیز باید به این فکر کنید.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/fa/rants/why-make-a-blog-page/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://joseph-shay.github.io/youzrobotic/fa/rants/why-make-a-blog-page/featured.jpg" />
     </item>
     
   </channel>

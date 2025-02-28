@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on يوسف شيخ الإسلام</title>
-    <link>https://example.org/ar/series/</link>
+    <link>https://joseph-shay.github.io/youzrobotic/ar/series/</link>
     <description>Recent content in Series on يوسف شيخ الإسلام</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ar</language>
     <managingEditor>youremail@example.com (يوسف شيخ الإسلام)</managingEditor>
     <webMaster>youremail@example.com (يوسف شيخ الإسلام)</webMaster>
     <copyright>© 2025 يوسف شيخ الإسلام</copyright>
-    <lastBuildDate>Wed, 19 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/ar/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://joseph-shay.github.io/youzrobotic/ar/series/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Article</title>
-      <link>https://example.org/ar/series/article/</link>
+      <link>https://joseph-shay.github.io/youzrobotic/ar/series/article/</link>
       <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
       <author>youremail@example.com (يوسف شيخ الإسلام)</author>
-      <guid>https://example.org/ar/series/article/</guid>
+      <guid>https://joseph-shay.github.io/youzrobotic/ar/series/article/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>صناعة المدونة</title>
-      <link>https://example.org/ar/series/%D8%B5%D9%86%D8%A7%D8%B9%D8%A9-%D8%A7%D9%84%D9%85%D8%AF%D9%88%D9%86%D8%A9/</link>
+      <link>https://joseph-shay.github.io/youzrobotic/ar/series/%D8%B5%D9%86%D8%A7%D8%B9%D8%A9-%D8%A7%D9%84%D9%85%D8%AF%D9%88%D9%86%D8%A9/</link>
       <pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate>
       <author>youremail@example.com (يوسف شيخ الإسلام)</author>
-      <guid>https://example.org/ar/series/%D8%B5%D9%86%D8%A7%D8%B9%D8%A9-%D8%A7%D9%84%D9%85%D8%AF%D9%88%D9%86%D8%A9/</guid>
+      <guid>https://joseph-shay.github.io/youzrobotic/ar/series/%D8%B5%D9%86%D8%A7%D8%B9%D8%A9-%D8%A7%D9%84%D9%85%D8%AF%D9%88%D9%86%D8%A9/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>إنشاء مدونة</title>
-      <link>https://example.org/ar/series/%D8%A5%D9%86%D8%B4%D8%A7%D8%A1-%D9%85%D8%AF%D9%88%D9%86%D8%A9/</link>
+      <link>https://joseph-shay.github.io/youzrobotic/ar/series/%D8%A5%D9%86%D8%B4%D8%A7%D8%A1-%D9%85%D8%AF%D9%88%D9%86%D8%A9/</link>
       <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
       <author>youremail@example.com (يوسف شيخ الإسلام)</author>
-      <guid>https://example.org/ar/series/%D8%A5%D9%86%D8%B4%D8%A7%D8%A1-%D9%85%D8%AF%D9%88%D9%86%D8%A9/</guid>
+      <guid>https://joseph-shay.github.io/youzrobotic/ar/series/%D8%A5%D9%86%D8%B4%D8%A7%D8%A1-%D9%85%D8%AF%D9%88%D9%86%D8%A9/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>WRO</title>
-      <link>https://example.org/ar/series/wro/</link>
+      <link>https://joseph-shay.github.io/youzrobotic/ar/series/wro/</link>
       <pubDate>Fri, 09 Aug 2024 00:00:00 +0000</pubDate>
       <author>youremail@example.com (يوسف شيخ الإسلام)</author>
-      <guid>https://example.org/ar/series/wro/</guid>
+      <guid>https://joseph-shay.github.io/youzrobotic/ar/series/wro/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>روبكب</title>
-      <link>https://example.org/ar/series/%D8%B1%D9%88%D8%A8%D9%83%D8%A8/</link>
+      <link>https://joseph-shay.github.io/youzrobotic/ar/series/%D8%B1%D9%88%D8%A8%D9%83%D8%A8/</link>
       <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
       <author>youremail@example.com (يوسف شيخ الإسلام)</author>
-      <guid>https://example.org/ar/series/%D8%B1%D9%88%D8%A8%D9%83%D8%A8/</guid>
+      <guid>https://joseph-shay.github.io/youzrobotic/ar/series/%D8%B1%D9%88%D8%A8%D9%83%D8%A8/</guid>
       <description></description>
       
     </item>

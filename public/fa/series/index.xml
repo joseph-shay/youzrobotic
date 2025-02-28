@@ -2,51 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on خانه</title>
-    <link>https://example.org/fa/series/</link>
+    <link>https://joseph-shay.github.io/youzrobotic/fa/series/</link>
     <description>Recent content in Series on خانه</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fa</language>
     <managingEditor>youremail@example.com (يوسف شيخ الاسلام)</managingEditor>
     <webMaster>youremail@example.com (يوسف شيخ الاسلام)</webMaster>
     <copyright>© 2025 يوسف شيخ الاسلام</copyright>
-    <lastBuildDate>Wed, 19 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/fa/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://joseph-shay.github.io/youzrobotic/fa/series/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Article</title>
-      <link>https://example.org/fa/series/article/</link>
+      <link>https://joseph-shay.github.io/youzrobotic/fa/series/article/</link>
       <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
       <author>youremail@example.com (يوسف شيخ الاسلام)</author>
-      <guid>https://example.org/fa/series/article/</guid>
+      <guid>https://joseph-shay.github.io/youzrobotic/fa/series/article/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>ساخت بلاگ</title>
-      <link>https://example.org/fa/series/%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A8%D9%84%D8%A7%DA%AF/</link>
+      <link>https://joseph-shay.github.io/youzrobotic/fa/series/%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A8%D9%84%D8%A7%DA%AF/</link>
       <pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate>
       <author>youremail@example.com (يوسف شيخ الاسلام)</author>
-      <guid>https://example.org/fa/series/%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A8%D9%84%D8%A7%DA%AF/</guid>
+      <guid>https://joseph-shay.github.io/youzrobotic/fa/series/%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A8%D9%84%D8%A7%DA%AF/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>WRO</title>
-      <link>https://example.org/fa/series/wro/</link>
+      <link>https://joseph-shay.github.io/youzrobotic/fa/series/wro/</link>
       <pubDate>Fri, 09 Aug 2024 00:00:00 +0000</pubDate>
       <author>youremail@example.com (يوسف شيخ الاسلام)</author>
-      <guid>https://example.org/fa/series/wro/</guid>
+      <guid>https://joseph-shay.github.io/youzrobotic/fa/series/wro/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>RoboCup</title>
-      <link>https://example.org/fa/series/robocup/</link>
+      <link>https://joseph-shay.github.io/youzrobotic/fa/series/robocup/</link>
       <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
       <author>youremail@example.com (يوسف شيخ الاسلام)</author>
-      <guid>https://example.org/fa/series/robocup/</guid>
+      <guid>https://joseph-shay.github.io/youzrobotic/fa/series/robocup/</guid>
       <description></description>
       
     </item>

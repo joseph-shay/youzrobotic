@@ -6,7 +6,7 @@ enableCodeCopy = true
 smartTOC = true
 replyByEmail = false
 
-mainSections = [ "Projects","posts" ,"Rants","Article"]
+mainSections = [ "projects","posts" ,"rants","article"]
 # robots = ""
 
 disableImageOptimization = false

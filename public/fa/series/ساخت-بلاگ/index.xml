@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ساخت بلاگ on خانه</title>
-    <link>https://example.org/fa/series/%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A8%D9%84%D8%A7%DA%AF/</link>
+    <link>https://joseph-shay.github.io/youzrobotic/fa/series/%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A8%D9%84%D8%A7%DA%AF/</link>
     <description>Recent content in ساخت بلاگ on خانه</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fa</language>
     <managingEditor>youremail@example.com (يوسف شيخ الاسلام)</managingEditor>
     <webMaster>youremail@example.com (يوسف شيخ الاسلام)</webMaster>
     <copyright>© 2025 يوسف شيخ الاسلام</copyright>
-    <lastBuildDate>Sat, 11 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/fa/series/%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A8%D9%84%D8%A7%DA%AF/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://joseph-shay.github.io/youzrobotic/fa/series/%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A8%D9%84%D8%A7%DA%AF/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>چگونه یک بلاگ بسازیم</title>
-      <link>https://example.org/fa/posts/how-to-blog/</link>
+      <link>https://joseph-shay.github.io/youzrobotic/fa/posts/how-to-blog/</link>
       <pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate>
       <author>youremail@example.com (يوسف شيخ الاسلام)</author>
-      <guid>https://example.org/fa/posts/how-to-blog/</guid>
+      <guid>https://joseph-shay.github.io/youzrobotic/fa/posts/how-to-blog/</guid>
       <description>چگونه یک وبسایت بلاگ بسازیم</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/fa/posts/how-to-blog/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://joseph-shay.github.io/youzrobotic/fa/posts/how-to-blog/featured.png" />
     </item>
     
     <item>
       <title>چرا بلاگ کنیم؟</title>
-      <link>https://example.org/fa/rants/why-make-a-blog-page/</link>
+      <link>https://joseph-shay.github.io/youzrobotic/fa/rants/why-make-a-blog-page/</link>
       <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
       <author>youremail@example.com (يوسف شيخ الاسلام)</author>
-      <guid>https://example.org/fa/rants/why-make-a-blog-page/</guid>
+      <guid>https://joseph-shay.github.io/youzrobotic/fa/rants/why-make-a-blog-page/</guid>
       <description>در اینجا توضیح می‌دهم که چرا شروع به نوشتن بلاگ کردم و چرا شما نیز باید به این فکر کنید.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/fa/rants/why-make-a-blog-page/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://joseph-shay.github.io/youzrobotic/fa/rants/why-make-a-blog-page/featured.jpg" />
     </item>
     
   </channel>

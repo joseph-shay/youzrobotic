@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>خانه</title>
-    <link>https://example.org/fa/</link>
+    <link>https://joseph-shay.github.io/youzrobotic/fa/</link>
     <description>Recent content on خانه</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fa</language>
     <managingEditor>youremail@example.com (يوسف شيخ الاسلام)</managingEditor>
     <webMaster>youremail@example.com (يوسف شيخ الاسلام)</webMaster>
     <copyright>© 2025 يوسف شيخ الاسلام</copyright>
-    <lastBuildDate>Wed, 19 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/fa/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://joseph-shay.github.io/youzrobotic/fa/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Factory Automation: Benefits, Implementation, and Future Prospects</title>
-      <link>https://example.org/fa/article/factory-automation/</link>
+      <link>https://joseph-shay.github.io/youzrobotic/fa/article/factory-automation/</link>
       <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
       <author>youremail@example.com (يوسف شيخ الاسلام)</author>
-      <guid>https://example.org/fa/article/factory-automation/</guid>
+      <guid>https://joseph-shay.github.io/youzrobotic/fa/article/factory-automation/</guid>
       <description>A brief look on Factory Automation. Written by Yousef Shaykholeslam</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/fa/article/factory-automation/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://joseph-shay.github.io/youzrobotic/fa/article/factory-automation/featured.png" />
     </item>
     
     <item>
       <title>90 Degree turns with BNO055</title>
-      <link>https://example.org/fa/posts/turn-90-degrees-with-bno055/</link>
+      <link>https://joseph-shay.github.io/youzrobotic/fa/posts/turn-90-degrees-with-bno055/</link>
       <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
       <author>youremail@example.com (يوسف شيخ الاسلام)</author>
-      <guid>https://example.org/fa/posts/turn-90-degrees-with-bno055/</guid>
+      <guid>https://joseph-shay.github.io/youzrobotic/fa/posts/turn-90-degrees-with-bno055/</guid>
       <description>The algorithm to turn your robot 90 degrees using the BNO055 Gyroscope.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/fa/posts/turn-90-degrees-with-bno055/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://joseph-shay.github.io/youzrobotic/fa/posts/turn-90-degrees-with-bno055/featured.jpg" />
     </item>
     
     <item>
       <title>Convert Words to Numbers in Python</title>
-      <link>https://example.org/fa/posts/string-to-number-python/</link>
+      <link>https://joseph-shay.github.io/youzrobotic/fa/posts/string-to-number-python/</link>
       <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
       <author>youremail@example.com (يوسف شيخ الاسلام)</author>
-      <guid>https://example.org/fa/posts/string-to-number-python/</guid>
+      <guid>https://joseph-shay.github.io/youzrobotic/fa/posts/string-to-number-python/</guid>
       <description>How to turn string into a Number with python and word2number.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/fa/posts/string-to-number-python/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://joseph-shay.github.io/youzrobotic/fa/posts/string-to-number-python/featured.jpg" />
     </item>
     
     <item>
       <title>&#39;One baby to another says I&#39;m lucky to&#39;ve met you&#39;</title>
-      <link>https://example.org/fa/rants/nirvana/</link>
+      <link>https://joseph-shay.github.io/youzrobotic/fa/rants/nirvana/</link>
       <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
       <author>youremail@example.com (يوسف شيخ الاسلام)</author>
-      <guid>https://example.org/fa/rants/nirvana/</guid>
+      <guid>https://joseph-shay.github.io/youzrobotic/fa/rants/nirvana/</guid>
       <description>نیرانا: میراثی از گرانج و احساسات خام.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/fa/rants/nirvana/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://joseph-shay.github.io/youzrobotic/fa/rants/nirvana/featured.jpg" />
     </item>
     
     <item>
       <title>رزومه/سی وی من</title>
-      <link>https://example.org/fa/resume/</link>
+      <link>https://joseph-shay.github.io/youzrobotic/fa/resume/</link>
       <pubDate>Tue, 14 Jan 2025 00:00:00 +0000</pubDate>
       <author>youremail@example.com (يوسف شيخ الاسلام)</author>
-      <guid>https://example.org/fa/resume/</guid>
+      <guid>https://joseph-shay.github.io/youzrobotic/fa/resume/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;پروفایل 
     &lt;div id=&#34;%D9%BE%D8%B1%D9%88%D9%81%D8%A7%DB%8C%D9%84&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -67,82 +67,82 @@
     
     <item>
       <title>چگونه یک بلاگ بسازیم</title>
-      <link>https://example.org/fa/posts/how-to-blog/</link>
+      <link>https://joseph-shay.github.io/youzrobotic/fa/posts/how-to-blog/</link>
       <pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate>
       <author>youremail@example.com (يوسف شيخ الاسلام)</author>
-      <guid>https://example.org/fa/posts/how-to-blog/</guid>
+      <guid>https://joseph-shay.github.io/youzrobotic/fa/posts/how-to-blog/</guid>
       <description>چگونه یک وبسایت بلاگ بسازیم</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/fa/posts/how-to-blog/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://joseph-shay.github.io/youzrobotic/fa/posts/how-to-blog/featured.png" />
     </item>
     
     <item>
       <title>چرا بلاگ کنیم؟</title>
-      <link>https://example.org/fa/rants/why-make-a-blog-page/</link>
+      <link>https://joseph-shay.github.io/youzrobotic/fa/rants/why-make-a-blog-page/</link>
       <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
       <author>youremail@example.com (يوسف شيخ الاسلام)</author>
-      <guid>https://example.org/fa/rants/why-make-a-blog-page/</guid>
+      <guid>https://joseph-shay.github.io/youzrobotic/fa/rants/why-make-a-blog-page/</guid>
       <description>در اینجا توضیح می‌دهم که چرا شروع به نوشتن بلاگ کردم و چرا شما نیز باید به این فکر کنید.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/fa/rants/why-make-a-blog-page/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://joseph-shay.github.io/youzrobotic/fa/rants/why-make-a-blog-page/featured.jpg" />
     </item>
     
     <item>
       <title>اتوماسیون آینده</title>
-      <link>https://example.org/fa/projects/snowa/</link>
+      <link>https://joseph-shay.github.io/youzrobotic/fa/projects/snowa/</link>
       <pubDate>Tue, 26 Nov 2024 00:00:00 +0000</pubDate>
       <author>youremail@example.com (يوسف شيخ الاسلام)</author>
-      <guid>https://example.org/fa/projects/snowa/</guid>
+      <guid>https://joseph-shay.github.io/youzrobotic/fa/projects/snowa/</guid>
       <description>سفر من به اسنوا برای اتوماسیون برخی از خطوط تولید</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/fa/projects/snowa/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://joseph-shay.github.io/youzrobotic/fa/projects/snowa/featured.jpg" />
     </item>
     
     <item>
       <title>2024 Iran WRO</title>
-      <link>https://example.org/fa/projects/wro2024/</link>
+      <link>https://joseph-shay.github.io/youzrobotic/fa/projects/wro2024/</link>
       <pubDate>Fri, 09 Aug 2024 00:00:00 +0000</pubDate>
       <author>youremail@example.com (يوسف شيخ الاسلام)</author>
-      <guid>https://example.org/fa/projects/wro2024/</guid>
+      <guid>https://joseph-shay.github.io/youzrobotic/fa/projects/wro2024/</guid>
       <description>مسابقات تنیس دو نفره رباتیک WRO 2024</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/fa/projects/wro2024/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://joseph-shay.github.io/youzrobotic/fa/projects/wro2024/featured.jpg" />
     </item>
     
     <item>
       <title>2024 IranOpen RoboCup</title>
-      <link>https://example.org/fa/projects/iranopen-robocup2024/</link>
+      <link>https://joseph-shay.github.io/youzrobotic/fa/projects/iranopen-robocup2024/</link>
       <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
       <author>youremail@example.com (يوسف شيخ الاسلام)</author>
-      <guid>https://example.org/fa/projects/iranopen-robocup2024/</guid>
+      <guid>https://joseph-shay.github.io/youzrobotic/fa/projects/iranopen-robocup2024/</guid>
       <description>مسابقه ربوکاپ ایران اپن 2024</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/fa/projects/iranopen-robocup2024/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://joseph-shay.github.io/youzrobotic/fa/projects/iranopen-robocup2024/featured.png" />
     </item>
     
     <item>
       <title>پنجمین جایزه مصطفی</title>
-      <link>https://example.org/fa/posts/mustafa-prize/</link>
+      <link>https://joseph-shay.github.io/youzrobotic/fa/posts/mustafa-prize/</link>
       <pubDate>Fri, 29 Sep 2023 00:00:00 +0000</pubDate>
       <author>youremail@example.com (يوسف شيخ الاسلام)</author>
-      <guid>https://example.org/fa/posts/mustafa-prize/</guid>
+      <guid>https://joseph-shay.github.io/youzrobotic/fa/posts/mustafa-prize/</guid>
       <description>پنجمین جایزه مصطفی با نام مستعار نوبل کشورهای اسلامی.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/fa/posts/mustafa-prize/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://joseph-shay.github.io/youzrobotic/fa/posts/mustafa-prize/featured.jpg" />
     </item>
     
     <item>
       <title>2023 Iran WRO</title>
-      <link>https://example.org/fa/projects/wro2023/</link>
+      <link>https://joseph-shay.github.io/youzrobotic/fa/projects/wro2023/</link>
       <pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate>
       <author>youremail@example.com (يوسف شيخ الاسلام)</author>
-      <guid>https://example.org/fa/projects/wro2023/</guid>
+      <guid>https://joseph-shay.github.io/youzrobotic/fa/projects/wro2023/</guid>
       <description>مسابقات WRO 2023 - ماموریت رباتیک Senior</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/fa/projects/wro2023/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://joseph-shay.github.io/youzrobotic/fa/projects/wro2023/featured.png" />
     </item>
     
     <item>
       <title>2023 IranOpen RoboCup</title>
-      <link>https://example.org/fa/projects/iranopen-robocup2023/</link>
+      <link>https://joseph-shay.github.io/youzrobotic/fa/projects/iranopen-robocup2023/</link>
       <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
       <author>youremail@example.com (يوسف شيخ الاسلام)</author>
-      <guid>https://example.org/fa/projects/iranopen-robocup2023/</guid>
+      <guid>https://joseph-shay.github.io/youzrobotic/fa/projects/iranopen-robocup2023/</guid>
       <description>مسابقه ربوکاپ ایران اپن 2023</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/fa/projects/iranopen-robocup2023/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://joseph-shay.github.io/youzrobotic/fa/projects/iranopen-robocup2023/featured.jpg" />
     </item>
     
   </channel>

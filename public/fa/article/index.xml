@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Articles on خانه</title>
-    <link>https://example.org/fa/article/</link>
+    <link>https://joseph-shay.github.io/youzrobotic/fa/article/</link>
     <description>Recent content in Articles on خانه</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fa</language>
     <managingEditor>youremail@example.com (يوسف شيخ الاسلام)</managingEditor>
     <webMaster>youremail@example.com (يوسف شيخ الاسلام)</webMaster>
     <copyright>© 2025 يوسف شيخ الاسلام</copyright>
-    <lastBuildDate>Wed, 19 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/fa/article/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://joseph-shay.github.io/youzrobotic/fa/article/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Factory Automation: Benefits, Implementation, and Future Prospects</title>
-      <link>https://example.org/fa/article/factory-automation/</link>
+      <link>https://joseph-shay.github.io/youzrobotic/fa/article/factory-automation/</link>
       <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
       <author>youremail@example.com (يوسف شيخ الاسلام)</author>
-      <guid>https://example.org/fa/article/factory-automation/</guid>
+      <guid>https://joseph-shay.github.io/youzrobotic/fa/article/factory-automation/</guid>
       <description>A brief look on Factory Automation. Written by Yousef Shaykholeslam</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/fa/article/factory-automation/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://joseph-shay.github.io/youzrobotic/fa/article/factory-automation/featured.png" />
     </item>
     
   </channel>
