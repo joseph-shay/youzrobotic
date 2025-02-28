@@ -18,7 +18,7 @@
       <author>youremail@example.com (Yousef Shaykholeslam)</author>
       <guid>https://example.org/posts/how-to-blog/</guid>
       <description>How to create a blog website</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/posts/how-to-blog/posts/how-to-blog/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/posts/how-to-blog/featured.png" />
     </item>
     
     <item>
