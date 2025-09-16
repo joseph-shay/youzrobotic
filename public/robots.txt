@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://joseph-shay.github.io/youzrobotic/sitemap.xml

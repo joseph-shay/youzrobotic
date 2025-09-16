@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles on خانه</title>
+    <link>https://joseph-shay.github.io/youzrobotic/fa/article/</link>
+    <description>Recent content in Articles on خانه</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fa</language>
+    <managingEditor>youremail@example.com (يوسف شيخ الاسلام)</managingEditor>
+    <webMaster>youremail@example.com (يوسف شيخ الاسلام)</webMaster>
+    <copyright>© 2025 يوسف شيخ الاسلام</copyright>
+    <lastBuildDate>Sat, 16 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://joseph-shay.github.io/youzrobotic/fa/article/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>اتوماسیون کارخانه: مزایا، پیاده‌سازی و چشم‌انداز آینده</title>
+      <link>https://joseph-shay.github.io/youzrobotic/fa/article/factory-automation/</link>
+      <pubDate>Sat, 16 Nov 2024 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (يوسف شيخ الاسلام)</author>
+      <guid>https://joseph-shay.github.io/youzrobotic/fa/article/factory-automation/</guid>
+      <description>نگاهی کوتاه به اتوماسیون کارخانه. نوشته‌ی یوسف شیخ‌الاسلام</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://joseph-shay.github.io/youzrobotic/fa/article/factory-automation/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>
